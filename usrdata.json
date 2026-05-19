@@ -32,7 +32,13 @@
     {
         "device_id": "f86054ce028e6992",
         "key": "Pawan@123",
-        "expirydate": "18-07-2026",
+        "expirydate": "18-08-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "3c556caec8237516",
+        "key": "Manish@123",
+        "expirydate": "18-08-2026",
         "Allowoffline": false
     }
     
