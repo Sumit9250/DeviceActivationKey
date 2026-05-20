@@ -52,6 +52,12 @@
         "key": "Abhishek@123",
         "expirydate": "19-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0e75a492c47f1977",
+        "key": "Jitender@123",
+        "expirydate": "19-06-2026",
+        "Allowoffline": false
     }
     
 ]
