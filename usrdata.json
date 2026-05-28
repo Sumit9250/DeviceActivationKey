@@ -64,6 +64,12 @@
         "key": "Amit@123",
         "expirydate": "21-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "db8ae0015a2d53ae",
+        "key": "Swiggy@123",
+        "expirydate": "21-06-2026",
+        "Allowoffline": false
     }
     
 ]
