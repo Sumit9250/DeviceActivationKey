@@ -62,13 +62,13 @@
     {
         "device_id": "5fafed6868fdb8c1",
         "key": "Amit@123",
-        "expirydate": "21-06-2026",
+        "expirydate": "21-04-2026",
         "Allowoffline": false
     },
     {
         "device_id": "db8ae0015a2d53ae",
         "key": "Swiggy@123",
-        "expirydate": "21-06-2027",
+        "expirydate": "21-06-2025",
         "Allowoffline": false
     }
     
